@@ -2,12 +2,10 @@
 During the COVID-19 era, keeping a social distance from people was the most effective way to stop and control the virus's transmission. Accordingly, as per WHO guidelines, a minimum 1 metre distance was mandatory. In this case, the "KEEP DISTANCE" device was used to keep people apart, to warn them about social distancing, and also to help them be aware of the distance from other people so they would not be affected by the virus.
 
 1. **FLOW CHART**:
-<img src="https://user-images.githubusercontent.com/83163103/189480070-019cbe4b-49fd-43c2-a32a-4fd4e11a07b9.PNG" >
+<img src="https://user-images.githubusercontent.com/83163103/189480407-7663cb33-4663-4766-99af-c40cd9651747.PNG" >
 2. **BLOCK DIAGRAM**:
-<img src="https://user-images.githubusercontent.com/83163103/189480072-c690f7a4-6b22-4f07-a7ea-058c4384a8fc.PNG" >
+<img src="https://user-images.githubusercontent.com/83163103/189480409-ee630346-b803-400e-a32d-2fd623dce5b7.PNG" >
 3. **PROPOSED SYSTEM ARCHITECTURE**:
-<img src="https://user-images.githubusercontent.com/83163103/189480068-3dedf0de-8ce2-43d6-9660-ccefaa2c08d3.PNG" >
+<img src="https://user-images.githubusercontent.com/83163103/189480408-45ded5f8-6eba-4aed-9db6-27e4918dd1e9.PNG" >
 4. **CIRCUIT DIAGRAM**:
-<img src="https://user-images.githubusercontent.com/83163103/189480067-d5d35727-291d-4790-98d9-eb64aec8f974.PNG" >
-
-
+<img src="https://user-images.githubusercontent.com/83163103/189480410-a25211bc-c45e-48b6-bbc6-9753c553224d.PNG" >
