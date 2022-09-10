@@ -16,4 +16,4 @@
 4. **CIRCUIT DIAGRAM**:
 <img src="https://user-images.githubusercontent.com/83163103/189480410-a25211bc-c45e-48b6-bbc6-9753c553224d.PNG" >
 
-<p>(february 2020 - October 2020)</p>
+<p>(February 2020 - October 2020)</p>
